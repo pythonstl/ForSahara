@@ -80,7 +80,6 @@ public class Week_1_Friday {
 		}
 		System.out.println();
 		
-		
 		/* 6. Write a program that generates following output:
 		 * 		1
 		 * 		22
