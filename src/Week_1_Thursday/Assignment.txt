@@ -1,0 +1,22 @@
+Thursday Assignment:
+
+1. Write a program to convert every odd position to upper case and every even position to lower case. eg input "Banana" output :"bAnAnA" or input "StLouis" output:"sTlOuIs"
+Hint: User toLowerCase() and toUpperCase() methods in String library.
+ 
+
+2. Write a program to determine if a string is a palindrome. (Palindromes are words which read the same forwards and backwards) Eg: radar, level, noon
+
+3. Write a program to count all the vowels in a string.
+E.g Input: banana
+Output:3
+ 
+4. Write a program to remove a given character from a string. 
+E.g. remove all 'a' from Averange should return vernge
+ 
+5. Write a program to remove the middle character of a string. Eg input "stack" output:"stck" 
+
+Bonus Questions
+<<Write a program to read an input and determine if a string has all unique characters.>>
+ 
+<<Write a program to find the largest element of an integer array>>
+Hint: Arrays are similar to Strings, they hold numbers instead of char.
