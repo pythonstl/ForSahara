@@ -3,7 +3,6 @@ package Week_1_Tuesday;
 import java.util.Scanner;
 
 public class No_2_AreaTriangle {
-
 	public static void main(String[] args) {
 		// CALCULATE THE AREA OF A TRIANGLE.
 		

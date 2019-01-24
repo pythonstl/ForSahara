@@ -4,7 +4,6 @@ import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class No_6_SimpleInterest {
-
 	public static void main(String[] args) {
 		// CALCULATE THE SIMPLE INTEREST AFTER A SPECIFIED # OF YEARS.
 		

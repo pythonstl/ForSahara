@@ -4,7 +4,6 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class No_5_BMI {
-
 	public static void main(String[] args) {
 		// CALCULATE A USER'S BMI.
 		

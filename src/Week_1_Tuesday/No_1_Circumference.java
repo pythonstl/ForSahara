@@ -3,7 +3,6 @@ package Week_1_Tuesday;
 import java.util.Scanner;
 
 public class No_1_Circumference {
-
 	public static void main(String[] args) {
 		/*	1.Write a program to prompt the user to enter the radius of the circle
 			then calculate the area and circumference of the circle. 
