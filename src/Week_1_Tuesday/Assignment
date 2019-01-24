@@ -1,0 +1,23 @@
+Tuesday Assignment
+1.Write a program to prompt the user to enter the radius of the circle
+ then calculate the area and circumference of the circle.
+ 
+2. Write a program to prompt the user for base-width and height of a triangle,
+  then calculate the area of the Triangle.
+ 
+3. Write a method to prompt the user for a letter of the alphabet and display it's numerical value(ASCII). Hint: Cast the char to int.
+ 
+4. Write a method to prompt the user for a double then display the value as a whole number. eg user enter "15.8" result is:  "You entered 15.8, the new value is 16".
+eg user enter "15.4" result is:  "You entered 15.4, the new value is 15".
+Hint: Use Math round() method.
+ 
+5. Take user input for height and weight and calculate his BMI
+ 
+6. Write a program which takes following input: 
+a) Investment Amount
+b) Yearly interest rate 
+c) number of years
+Calculate the simple interest.
+
+Bonus Question
+1. Write a program to prompt the user for a number then display check if the number is Even or Odd.
