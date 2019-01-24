@@ -1,3 +1,4 @@
+package Week_1_Friday;
 
 public class Week_1_Friday {
 
