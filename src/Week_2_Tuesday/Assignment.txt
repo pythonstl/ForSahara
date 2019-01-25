@@ -1,0 +1,18 @@
+Tuesday's Assignment:
+ 
+1. Write a "Box" class which has following properties:
+cost of material per square inch, 
+height in inches, 
+length in inches, 
+depth in inches. 
+ 
+Provide methods for calculating the "Volume", "SurfaceArea" and "Cost". 
+ 
+Write a program to use the class by creating a Box object and asking the user for each of the properties, setting these properties for the box and printing out the Volume, Surface Area and Cost of the box.
+
+2. Create a class called Date that includes three pieces of information as instance variables 1. Month (type int) 2. Day (type int) 3. Year (type int). 
+ 
+Your class should have the following methods: - 
+A. Constructor that initializes the three instance variables and assumes that the values provided are correct. 
+ 
+B. Provide a method displayDate() that displays the month, day and year separated by forward slashes (/).
